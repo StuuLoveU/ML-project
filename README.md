@@ -20,8 +20,7 @@ A beginner machine learning project that predicts the daily **Close price** of F
 ## Files
 
 ```
-Uniqlo_Stock_Beginner_v3.ipynb          Main Colab notebook (beginner-friendly)
-Uniqlo_Stock_Presentation.pptx          Slide presentation (7 slides)
+Uniqlo_Stock.ipynb          Main Colab notebook (beginner-friendly)
 README.md                               This file
 ```
 
