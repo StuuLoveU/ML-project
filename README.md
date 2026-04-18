@@ -20,8 +20,8 @@ A beginner machine learning project that predicts the daily **Close price** of F
 ## Files
 
 ```
-Uniqlo_Stock.ipynb          Main Colab notebook (beginner-friendly)
-README.md                               This file
+Uniqlo_Stock.ipynb          Main Colab notebook
+README.md                   This file
 ```
 
 **Data files (upload to Google Drive before running the notebook):**
