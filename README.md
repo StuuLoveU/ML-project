@@ -35,7 +35,7 @@ Uniqlo(FastRetailing) 2017 Test - stocks2017.csv
 ## How to Run
 
 1. Upload both CSV files to your Google Drive
-2. Open `Uniqlo_Stock_Beginner_v3.ipynb` in [Google Colab](https://colab.research.google.com)
+2. Open `Uniqlo_Stock.ipynb` in [Google Colab](https://colab.research.google.com)
 3. Run **Cell 1** to install libraries
 4. Run **Cell 2** to import libraries
 5. Run **Cell 3** to mount Google Drive and allow access
