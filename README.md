@@ -1,6 +1,6 @@
 # Uniqlo Stock Price Prediction
 
-A beginner machine learning project that predicts the daily **Close price** of Fast Retailing (Uniqlo) stock using three supervised regression algorithms.
+A machine learning project that predicts the daily **Close price** of Fast Retailing (Uniqlo) stock using three supervised regression algorithms.
 
 ---
 
